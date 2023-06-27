@@ -1,0 +1,48 @@
+.containeer{
+    text-align: center;
+    padding-top: 20px;
+    margin: 30px;
+    
+}
+input {
+    padding: 15px;
+    width: 500px;
+    margin: 10px 0px;
+    /* box-sizing: 50px; */
+    border-bottom-color: aqua;  
+    border-radius: 5px;
+    
+  }
+  button {
+    font-weight: bold;
+    background: rgb(4, 0, 255);
+    border: none;
+    color: white;
+    padding: 1%;
+    border-radius: 20px;
+    width: 120px;
+    margin: 10px;
+    padding: 20px;
+    box-shadow: 20px;
+  }
+  form{
+    background-color: rgb(190, 142, 222);
+    padding: 0px 150px;
+    border-radius: 10px;
+    width: 800px;
+    height: 700px;
+   
+  }
+ .showDataStyle{
+    margin-top: -600px;
+    margin-left: 750px;
+    padding-bottom: 0;
+    width: auto;
+
+ }
+
+
+ .Container{
+    background-color:#317773;
+    font-style: #E2D1F9;
+ }
